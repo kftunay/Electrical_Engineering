@@ -1,4 +1,4 @@
-# Phy1/EEng Course Preparation
+# EEng Course Preparation
 
 Software we will be using during the course:
 

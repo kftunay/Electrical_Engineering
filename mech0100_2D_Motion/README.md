@@ -8,4 +8,4 @@ This exercise discussed in this notebook is inspired by an exercise of the physi
 
 * Tipler, Mosca, 6th edition: Exercise 3, Chapter 3, Page 91
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rolfbecker/EE_1.08_2_EEng_WS2022/main?labpath=mech0100_2D_Motion%2Fmech0101_Jump_onto_Platform_V001.ipynb)
+Run it on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rolfbecker/EE_1.08_2_EEng_WS2022/main?labpath=mech0100_2D_Motion%2Fmech0101_Jump_onto_Platform_V001.ipynb)

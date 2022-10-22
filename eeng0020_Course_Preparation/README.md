@@ -5,6 +5,8 @@ Software we will be using during the course:
 1. Anaconda Python distribution: https://www.anaconda.com/products/distribution#Downloads
 1. notepad++ Text Editor (for Windows users only): https://notepad-plus-plus.org/
 1. LTspice: https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+1. LibreOffice: https://www.libreoffice.org/download/download-libreoffice/ 
+
 
 We will use several special Python packages. The following list is not comprehensive:
 

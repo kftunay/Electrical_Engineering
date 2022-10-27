@@ -12,6 +12,9 @@ gi*/
 *_INCLASS/
 tmp/
 
+*_INCLASS\.*
+*_dev.\*
+
 *.ipynb_checkpoints/
 *checkpoint.ipynb
 

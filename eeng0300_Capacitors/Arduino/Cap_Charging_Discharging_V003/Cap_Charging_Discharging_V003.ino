@@ -48,11 +48,12 @@ void setup() {
   pinMode(anaInPin,INPUT);
 
   Serial.begin(115200);
-  Serial.println("charge_voltage capacitor_voltage digital_input");
+  Serial.println("ms charge_voltage capacitor_voltage digital_input");
 
   ms = millis();
   msChargeRef = ms;
   msSampleRef = ms;
+  ms0 = ms;
 }
 
 
@@ -71,6 +72,8 @@ void loop() {
     capacitorMV = ( (unsigned long)adcValue * 5000 ) / 1024;
     digitalMV = digInState*5000;
 
+    Serial.print(ms-ms0);
+    Serial.print(" ");
     Serial.print(chargeMV);
     Serial.print(" ");
     Serial.print(capacitorMV);

@@ -53,7 +53,7 @@ The token `(base)` shows the active environment.
 The fastest way to create the necessary conda environment named `eeng` for this course is:
 
 ```
-conda create -c conda-forge -n eeng python=3 jupyterlab numpy scipy matplotlib pandas ipywidgets
+conda create -c conda-forge -n eeng python=3 jupyterlab numpy scipy matplotlib pandas ipywidgets bqplot pyserial
 ```
 
 This command installs packages from the **conda-forge** software 'channel'. A channel is a online software source, a huge repository providing the software packages for installation.

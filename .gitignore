@@ -10,6 +10,7 @@
 *_tmp/
 *_INCLASS/
 tmp/
+*dev/
 
 *_soln.*
 *_INCLASS.*
